@@ -1,0 +1,37 @@
+_repo: The-Merry-Anne_51916
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fogarty, Thomas
+    alias: Fogarty, Thomas J.
+    birthdate: 1873
+    deathdate: 1938
+    gutenberg_agent_id: '33090'
+    url: http://www.gutenberg.org/2009/agents/33090
+creator:
+  author:
+    agent_name: Merwin, Samuel
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '2744'
+    url: http://www.gutenberg.org/2009/agents/2744
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Merwin_%28writer%29
+description: ''
+gutenberg_issued: '2016-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51916'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schooners -- Fiction'
+- !lcsh 'Ship captains -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- !lcsh 'Smuggling -- Fiction'
+- !lcsh 'Michigan, Lake -- Fiction'
+- GITenberg
+title: The Merry Anne
+url: http://www.gutenberg.org/ebooks/51916
