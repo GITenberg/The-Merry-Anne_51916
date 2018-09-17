@@ -8,6 +8,9 @@ contributor:
     deathdate: 1938
     gutenberg_agent_id: '33090'
     url: http://www.gutenberg.org/2009/agents/33090
+covers:
+- cover_type: archival
+  image_path: 51916-h/images/cover.jpg
 creator:
   author:
     agent_name: Merwin, Samuel
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2744
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Merwin_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51916#The-Merry-Anne
 gutenberg_issued: '2016-05-01'
 gutenberg_type: Text
 identifiers:
